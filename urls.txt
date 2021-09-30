@@ -1,0 +1,3 @@
+http://laravel.qswire.com/login
+https://learndjango.com/tutorials/django-login-and-logout-tutorial
+https://docs.djangoproject.com/en/3.2/topics/auth/default/
